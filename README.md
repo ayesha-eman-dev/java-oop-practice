@@ -30,7 +30,7 @@ The programs cover foundational OOP concepts including **classes, objects, const
    - Simple arithmetic operations
    - Area and perimeter calculations
    - Printing tables and finding maximum of two numbers
-   - 
+    
 2. **Encapsulation**
    - Using **private fields** in a class
    - Accessing fields through **getter and setter methods**
