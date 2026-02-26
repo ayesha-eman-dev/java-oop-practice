@@ -11,8 +11,8 @@ The programs cover foundational OOP concepts including **classes, objects, const
   - Circle.java → Calculate area of circle  
   - Rectangle.java → Rectangle class with area/perimeter methods  
   - RectangleTest.java → Test Rectangle calculations
-
- - **encapsulation/** → Lab 1–2: Encapsulation example  
+    
+- **encapsulation/** → Lab 1–2: Encapsulation example  
   - Student.java → Demonstrates private fields with getters/setters 
 
 - **constructors/** → Lab 2: Constructor practice  
