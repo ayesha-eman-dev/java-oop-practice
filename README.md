@@ -10,18 +10,18 @@ The programs cover foundational OOP concepts including **classes, objects, const
   - Calculator.java → Simple calculator operations  
   - Circle.java → Calculate area of circle  
   - Rectangle.java → Rectangle class with area/perimeter methods  
-  - RectangleTest.java → Test Rectangle calculations  
+  - RectangleTest.java → Test Rectangle calculations
+
+ - **encapsulation/** → Lab 1–2: Encapsulation example  
+  - Student.java → Demonstrates private fields with getters/setters 
 
 - **constructors/** → Lab 2: Constructor practice  
   - Product.java → Demonstrates default and parameterized constructors, static fields, getters/setters  
-  - Demo.java → Test class for Product  
+  - Demo.java → Test class for Product
 
 - **constructorOverloading/** → Lab 3: Constructor overloading and copy constructor  
   - MemberCard.java → Demonstrates overloaded constructors, copy constructor, static fields/methods, and object management  
-  - MemberCardDemo.java → Test class for MemberCard  
-
-- **encapsulation/** → Lab 1–2: Encapsulation example  
-  - Student.java → Demonstrates private fields with getters/setters  
+  - MemberCardDemo.java → Test class for MemberCard   
 
 ## Concepts Practiced
 
